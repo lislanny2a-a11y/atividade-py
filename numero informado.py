@@ -1,5 +1,2 @@
-
-n1 = float(input("Digite um número:"))
-n2 = float(input("Digite outro número:"))
-soma= n1 + n2
-print(f"A soma é {soma}")
+numero = int(input("Informe um numero:"))
+print(f"O numero informado foi {numero}")
